@@ -3,6 +3,8 @@ This is a SPRING MVC & Angular2 car management application made for my Object Or
 
 NOTE: All components of project were hosted locally.
 
+FELIX: Go to: /CarManagementSystem/src/main/java/com/carmanagement/
+
 Please see screenshots for program visuals.
 
 Specs:
